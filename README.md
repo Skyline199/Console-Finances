@@ -1,3 +1,5 @@
 # Console-Finances
 Accounting
-Aim is to create a financial statement to show number of months and profit increase and decrease month on month
+Aim is to create a financial statement to show number of months and profit increase and decrease month on month.
+
+This will be achieved by using javascript mathmatics.
